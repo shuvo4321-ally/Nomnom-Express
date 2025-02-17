@@ -44,7 +44,7 @@ NomNom Express is a **user-friendly and efficient food delivery system** designe
 ## 📌 Database Design  
 
 ### 🗂️ER/EER Diagram  
-![ER Diagram](https://raw.githubusercontent.com/your-username/your-repository/main/screenshots/er_diagram.png)  
+![Image](https://github.com/user-attachments/assets/6c850295-313f-4b14-bbff-ec1c29d5d11b)
 
 ### 🏛️ Schema Diagram  
 ![Schema Diagram](https://raw.githubusercontent.com/your-username/your-repository/main/screenshots/schema_diagram.png)  
