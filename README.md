@@ -30,7 +30,7 @@ NomNom Express is a **user-friendly and efficient food delivery system** designe
 ## 🖥️ Screenshots  
 
 ### 🏠 Home Page  
-![Home Page](https://raw.githubusercontent.com/your-username/your-repository/main/screenshots/homepage.png)  
+![Image](https://github.com/user-attachments/assets/c5fd3fe7-3d39-41f8-81b9-75d57c058afc)
 
 ### 🍽️ Restaurant List  
 ![Restaurant List](https://raw.githubusercontent.com/your-username/your-repository/main/screenshots/restaurant_list.png)  
