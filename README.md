@@ -1,5 +1,3 @@
-
-
 ---
 
 # 🍔 NomNom Express – A Complete Food Delivery Solution  
@@ -45,7 +43,7 @@ NomNom Express is a **user-friendly and efficient food delivery system** designe
 
 ## 📌 Database Design  
 
-### 🗂️ ER Diagram  
+### 🗂️ER/EER Diagram  
 ![ER Diagram](https://raw.githubusercontent.com/your-username/your-repository/main/screenshots/er_diagram.png)  
 
 ### 🏛️ Schema Diagram  
