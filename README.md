@@ -29,12 +29,13 @@ NomNom Express is a **user-friendly and efficient food delivery system** designe
 
 ## 🖥️ Screenshots  
 
-### 🏠 Home Page  
-![Image](https://github.com/user-attachments/assets/c5fd3fe7-3d39-41f8-81b9-75d57c058afc)
+### 🏠 Signup Page  
+![Image](https://github.com/user-attachments/assets/1ebff9da-a1a5-4ffb-9050-882c20ca2044)
+
+)
 
 ### 🍽️ Restaurant List  
-![Restaurant List](https://raw.githubusercontent.com/your-username/your-repository/main/screenshots/restaurant_list.png)  
-
+![Image](https://github.com/user-attachments/assets/c5fd3fe7-3d39-41f8-81b9-75d57c058afc)
 ### 🛒 Cart & Checkout  
 ![Image](https://github.com/user-attachments/assets/83dcbfc0-1898-4984-b7b3-b0d6d0a7d8d4)
 ![Image](https://github.com/user-attachments/assets/d6e1b8b5-5657-450b-ba30-a4bb2a39ce1e) 
