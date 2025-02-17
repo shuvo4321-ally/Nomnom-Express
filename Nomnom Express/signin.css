@@ -1,0 +1,99 @@
+
+ body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.login-wrap {
+  margin: 100px auto;
+  background: #ecf0f1;
+  width: 350px;
+  padding: 55px;
+  border-radius: 10px;
+  box-shadow: 3px #333;
+
+  @media (max-width: 768px) {
+    width: 90%;
+  }
+}
+
+.login-wrap h2 {
+  text-align: center;
+  font-weight: 200;
+  font-size: 3em;
+  margin-top: 10px;
+  color: #34495e;
+}
+
+.form {
+  padding-top: 50px;
+}
+
+.form input[type="text"],
+.form input[type="password"],
+.form button {
+  display: block;
+  width: 100%; /* Adjust width if needed */
+  margin-bottom: 25px;
+  height: 40px;
+  border-radius: 5px;
+  outline: none;
+  padding: 0 10px;
+  font-size: 14px;
+  border: 1px solid #bbb;
+  transition: border-color 0.2s ease-in-out;
+}
+
+.form input[type="text"]:focus,
+.form input[type="password"]:focus {
+  border-color: #3498db;
+}
+
+.form a {
+  text-align: center;
+  font-size: 10px;
+  color: #3498db;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form button {
+  background-color: #ff2c07;
+  color: rgb(28, 19, 19);
+  font-size: 18px;
+  font-weight: 200;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.form button:hover {
+  background-color: #e62900; /* Modified hover color */
+}
+
+.form button:active {
+  background-color: #b02300; /* Modified active color */
+}
+
+/* pop */
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  display: none; /* Initially hidden */
+  z-index: 10; /* Ensure popup is above other elements */
+  text-align: center;
+  padding: 20px;
+}
+
+.popup p {
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.popup a {
+  color: #fff;
+  text-decoration: none;
+}

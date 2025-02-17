@@ -1,0 +1,149 @@
+/* cart.css */
+
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container */
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+/* Heading */
+.heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Shopping Cart Table */
+.shopping-cart {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.shopping-cart table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.shopping-cart th, .shopping-cart td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.shopping-cart th {
+    background-color: #f2f2f2;
+}
+
+.shopping-cart td {
+    vertical-align: middle;
+}
+
+/* Update Form */
+.shopping-cart form {
+    display: flex;
+}
+
+.shopping-cart form input[type="number"] {
+    width: 40px;
+}
+
+.shopping-cart form input[type="submit"] {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+/* Remove Button */
+/* .delete-btn {
+    color: #dc3545;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.delete-btn:hover {
+    text-decoration: underline;
+} */
+.continue-shopping {
+    display: inline-block;
+    padding: 15px 40px;
+    background-color: #007F73;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.continue-shopping:hover {
+    background-color: #0056b3;
+}
+.delete-all {
+    display: inline-block;
+    padding: 10px 40px;
+    background-color: #fddb00; 
+    color: rgb(21, 6, 6);
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.delete-all:hover {
+    background-color: #d32f2f; 
+}
+.delete-btn {
+    display: inline-block;
+    padding: 10px 50px; /* Adjust padding as needed */
+    background-color: #FF204E; /* Choose your desired button color */
+    color: #ffffff; /* Text color */
+    text-decoration: none;
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer;
+}
+
+.delete-btn:hover {
+    background-color: #d32f2f; /* Darker color on hover */
+}
+.checkout-btn {
+    text-align: center; /* Center align the button */
+    margin-top: 20px; /* Add top margin */
+}
+
+.checkout-btn .btn {
+    display: inline-block; /* Display as inline block */
+    padding: 10px 20px; /* Padding for button */
+    background-color: #007bff; /* Button background color */
+    color: #fff; /* Button text color */
+    text-decoration: none; /* Remove default link underline */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.checkout-btn .btn:hover {
+    background-color: #0056b3; /* Darker background color on hover */
+}
+
+.checkout-btn .btn.disabled {
+    background-color: #ccc; /* Disabled button background color */
+    cursor: not-allowed; /* Change cursor to not-allowed */
+}
+.grand-total-row {
+    background-color: #f0f0f0; /* Light gray background */
+    font-weight: bold; /* Bold font weight for emphasis */
+ }
+ .hcus {
+    color: rgb(1, 1, 11);
+    font-size: 18px;
+    text-align: left;
+}

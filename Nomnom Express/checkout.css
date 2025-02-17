@@ -1,0 +1,78 @@
+/* checkout.css */
+
+/* Container */
+.container {
+   max-width: 800px;
+   margin: 0 auto;
+   padding: 20px;
+}
+
+/* Checkout section */
+.checkout {
+   margin-top: 50px;
+}
+
+/* Table */
+table {
+   width: 100%;
+   border-collapse: collapse;
+   margin-bottom: 20px;
+}
+
+table, th, td {
+   border: 1px solid #ddd;
+}
+
+th, td {
+   padding: 10px;
+   text-align: left;
+}
+
+th {
+   background-color: #f2f2f2;
+}
+
+/* Order number */
+.order-number {
+   margin-bottom: 20px;
+}
+
+.order-number p {
+   font-size: 18px;
+}
+
+/* Payment section */
+.payment-section {
+   background-color: #f9f9f9;
+   padding: 20px;
+   border-radius: 5px;
+}
+
+.payment-heading {
+   margin-bottom: 20px;
+}
+
+/* Payment form */
+label {
+   display: block;
+   margin-bottom: 10px;
+}
+
+input[type="text"] {
+   width: 100%;
+   padding: 10px;
+   margin-bottom: 20px;
+}
+
+button.btn {
+   padding: 10px 20px;
+   background-color: #007bff;
+   color: #fff;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+button.btn:hover {
+   background-color: #0056b3;
+}
