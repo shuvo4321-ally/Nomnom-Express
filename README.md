@@ -59,18 +59,6 @@ NomNom Express is a **user-friendly and efficient food delivery system** designe
 
 ---
 
-## 👨‍💻 Team Contribution  
-
-| **Contributor** | **Role** |  
-|---------------|--------------------------|  
-| **Ayesha Parpia Abontee** | Customer & Rider Dashboard, Order History |  
-| **Md. Fuadur Rahman Mollah** | Customer Profile, Referral System, Restaurant View |  
-| **Md. Abu Rayhan** | Customer Order Management |  
-| **Alvee Ishraque** | Cart System, User Authentication |  
-| **Tarek Alam Bhuiyan** | Checkout, Payment Integration |  
-
----
-
 ### 🔥 Next Steps  
 - 📌 Deploy on a cloud-based server  
 - 📌 Improve UI with modern frameworks  
